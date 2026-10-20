@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">wear what?</string>
+    <string name="title_activity_main">wear what?</string>
+    <string name="package_name">com.wearwhat.app</string>
+    <string name="custom_url_scheme">com.wearwhat.app</string>
+</resources>

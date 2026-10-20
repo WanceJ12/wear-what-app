@@ -1,0 +1,6 @@
+{
+  "appId": "com.wearwhat.app",
+  "appName": "wear what?",
+  "webDir": "dist",
+  "backgroundColor": "#faf7f0"
+}
